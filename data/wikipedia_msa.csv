@@ -1,0 +1,385 @@
+Rank,Metropolitan statistical area,2021 Estimate,2020 Census,CBSA
+1,"New York-Newark-Jersey City, NY-NJ-PA MSA","19,768,458","20,140,470","New York-Newark, NY-NJ-CT-PA CSA"
+2,"Los Angeles-Long Beach-Anaheim, CA MSA","12,997,353","13,200,998","Los Angeles-Long Beach, CA CSA"
+3,"Chicago-Naperville-Elgin, IL-IN-WI MSA","9,509,934","9,618,502","Chicago-Naperville, IL-IN-WI CSA"
+4,"Dallas-Fort Worth-Arlington, TX MSA","7,759,615","7,637,387","Dallas-Fort Worth, TX-OK CSA"
+5,"Houston-The Woodlands-Sugar Land, TX MSA","7,206,841","7,122,240","Houston-The Woodlands, TX CSA"
+6,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA","6,356,434","6,385,162","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA"
+7,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA","6,228,601","6,245,051","Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA"
+8,"Atlanta-Sandy Springs-Alpharetta, GA MSA","6,144,050","6,089,815","Atlanta?Athens-Clarke County?Sandy Springs, GA-AL CSA"
+9,"Miami-Fort Lauderdale-Pompano Beach, FL MSA","6,091,747","6,138,333","Miami-Port St. Lucie-Fort Lauderdale, FL CSA"
+10,"Phoenix-Mesa-Chandler, AZ MSA","4,946,145","4,845,832","Phoenix-Mesa, AZ CSA"
+11,"Boston-Cambridge-Newton, MA-NH MSA","4,899,932","4,941,632","Boston-Worcester-Providence, MA-RI-NH-CT CSA"
+12,"Riverside-San Bernardino-Ontario, CA MSA","4,653,105","4,599,839","Los Angeles-Long Beach, CA CSA"
+13,"San Francisco-Oakland-Berkeley, CA MSA","4,623,264","4,749,008","San Jose-San Francisco-Oakland, CA CSA"
+14,"Detroit?Warren?Dearborn, MI MSA","4,365,205","4,392,041","Detroit-Warren-Ann Arbor, MI CSA"
+15,"Seattle-Tacoma-Bellevue, WA MSA","4,011,553","4,018,762","Seattle-Tacoma, WA CSA"
+16,"Minneapolis-St. Paul-Bloomington, MN-WI MSA","3,690,512","3,690,261","Minneapolis-St. Paul, MN-WI CSA"
+17,"San Diego-Chula Vista-Carlsbad, CA MSA","3,286,069","3,298,634",
+18,"Tampa-St. Petersburg-Clearwater, FL MSA","3,219,514","3,175,275",
+19,"Denver-Aurora-Lakewood, CO MSA","2,972,566","2,963,821","Denver-Aurora, CO CSA"
+20,"Baltimore-Columbia-Towson, MD MSA","2,838,327","2,844,510","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA"
+21,"St. Louis, MO-IL MSA","2,809,299","2,820,253","St. Louis-St. Charles-Farmington, MO-IL CSA"
+22,"Charlotte-Concord-Gastonia, NC-SC MSA","2,701,046","2,660,329","Charlotte-Concord, NC-SC CSA"
+23,"Orlando-Kissimmee-Sanford, FL MSA","2,691,925","2,673,376","Orlando-Lakeland-Deltona, FL CSA"
+24,"San Antonio-New Braunfels, TX MSA","2,601,788","2,558,143","San Antonio-New Braunfels-Pearsall, TX CSA"
+25,"Portland-Vancouver-Hillsboro, OR-WA MSA","2,511,612","2,512,859","Portland-Vancouver?Salem, OR-WA CSA"
+26,"Sacramento-Roseville-Folsom, CA MSA","2,411,428","2,397,382","Sacramento-Roseville, CA CSA"
+27,"Pittsburgh, PA MSA","2,353,538","2,370,930","Pittsburgh-New Castle-Weirton, PA-OH-WV CSA"
+28,"Austin-Round Rock-Georgetown, TX MSA","2,352,426","2,283,371",
+29,"Las Vegas-Henderson-Paradise, NV MSA","2,292,476","2,265,461","Las Vegas-Henderson, NV-AZ CSA"
+30,"Cincinnati, OH-KY-IN MSA","2,259,935","2,256,884","Cincinnati-Wilmington-Maysville, OH-KY-IN CSA"
+31,"Kansas City, MO-KS MSA","2,199,490","2,192,035","Kansas City-Overland Park-Kansas City, MO-KS CSA"
+32,"Columbus, OH MSA","2,151,017","2,138,926","Columbus-Marion-Zanesville, OH CSA"
+33,"Indianapolis-Carmel-Anderson, IN MSA","2,126,804","2,111,040","Indianapolis-Carmel-Muncie, IN CSA"
+34,"Cleveland-Elyria, OH MSA","2,075,662","2,088,251","Cleveland-Akron-Canton, OH CSA"
+35,"Nashville-Davidson?Murfreesboro?Franklin, TN MSA","2,012,476","1,989,519","Nashville-Davidson?Murfreesboro, TN CSA"
+36,"San Jose-Sunnyvale-Santa Clara, CA MSA","1,952,185","2,000,468","San Jose-San Francisco-Oakland, CA CSA"
+37,"Virginia Beach-Norfolk-Newport News, VA-NC MSA","1,803,328","1,799,674","Virginia Beach-Norfolk, VA-NC CSA"
+38,"Providence-Warwick, RI-MA MSA","1,675,774","1,676,579","Boston-Worcester-Providence, MA-RI-NH-CT CSA"
+39,"Jacksonville, FL MSA","1,637,666","1,605,848","Jacksonville-St. Marys-Palatka, FL-GA CSA"
+40,"Milwaukee-Waukesha, WI MSA","1,566,487","1,574,731","Milwaukee-Racine-Waukesha, WI CSA"
+41,"Raleigh-Cary, NC MSA","1,448,411","1,413,982","Raleigh-Durham-Cary, NC CSA"
+42,"Oklahoma City, OK MSA","1,441,647","1,425,695","Oklahoma City-Shawnee, OK CSA"
+43,"Memphis, TN-MS-AR MSA","1,336,103","1,337,779","Memphis-Forrest City, TN-MS-AR CSA"
+44,"Richmond, VA MSA","1,324,062","1,314,434",
+45,"Louisville/Jefferson County, KY-IN MSA","1,284,566","1,285,439","Louisville/Jefferson County?Elizabethtown?Bardstown, KY-IN CSA"
+46,"Salt Lake City, UT MSA","1,263,061","1,257,936","Salt Lake City-Provo-Ogden, UT CSA"
+47,"New Orleans-Metairie, LA MSA","1,261,726","1,271,845","New Orleans-Metairie-Hammond, LA-MS CSA"
+48,"Hartford-East Hartford-Middletown, CT MSA","1,211,906","1,213,531","Hartford-East Hartford, CT CSA"
+49,"Buffalo-Niagara Falls, NY MSA","1,162,336","1,166,902","Buffalo-Cheektowaga-Cattaraugus, NY CSA"
+50,"Birmingham-Hoover, AL MSA","1,114,262","1,115,289","Birmingham-Hoover-Talladega, AL CSA"
+51,"Grand Rapids-Kentwood, MI MSA","1,091,620","1,087,592","Grand Rapids-Kentwood-Muskegon, MI CSA"
+52,"Rochester, NY MSA","1,084,973","1,090,135","Rochester-Batavia-Seneca Falls, NY CSA"
+53,"Tucson, AZ MSA","1,052,030","1,043,433","Tucson-Nogales, AZ CSA"
+54,"Tulsa, OK MSA","1,023,988","1,015,331","Tulsa-Muskogee-Bartlesville, OK CSA"
+55,"Fresno, CA MSA","1,013,581","1,008,654","Fresno-Madera-Hanford, CA CSA"
+56,"Urban Honolulu, HI MSA","1,000,890","1,016,508",
+57,"Worcester, MA-CT MSA","978,447","978,529","Boston-Worcester-Providence, MA-RI-NH-CT CSA"
+58,"Omaha-Council Bluffs, NE-IA MSA","971,637","967,604","Omaha-Council Bluffs-Fremont, NE-IA CSA"
+59,"Bridgeport-Stamford-Norwalk, CT MSA","959,768","957,419","New York-Newark, NY-NJ-CT-PA CSA"
+60,"Greenville-Anderson, SC MSA","940,774","928,195","Greenville-Spartanburg-Anderson, SC CSA"
+61,"Albuquerque, NM MSA","918,259","916,528","Albuquerque-Santa Fe-Las Vegas, NM CSA"
+62,"Bakersfield, CA MSA","917,673","909,235",
+63,"Albany-Schenectady-Troy, NY MSA","899,286","899,262","Albany-Schenectady, NY CSA"
+64,"Knoxville, TN MSA","893,412","879,773","Knoxville-Morristown-Sevierville, TN CSA"
+65,"McAllen-Edinburg-Mission, TX MSA","880,356","870,781","McAllen-Edinburg, TX CSA"
+66,"Baton Rouge, LA MSA","871,905","870,569",
+67,"El Paso, TX MSA","871,234","868,859","El Paso-Las Cruces, TX-NM CSA"
+68,"Allentown-Bethlehem-Easton, PA-NJ MSA","865,310","861,889",
+69,"New Haven-Milford, CT MSA","863,700","864,835","New York-Newark, NY-NJ-CT-PA CSA"
+70,"North Port-Sarasota-Bradenton, FL MSA","859,760","833,716","North Port-Sarasota, FL CSA"
+71,"Oxnard-Thousand Oaks-Ventura, CA MSA","839,784","843,843","Los Angeles-Long Beach, CA CSA"
+72,"Columbia, SC MSA","838,250","829,470","Columbia-Orangeburg-Newberry, SC CSA"
+73,"Dayton, OH MSA","813,516","814,049","Dayton-Springfield-Kettering, OH CSA"
+74,"Charleston-North Charleston, SC MSA","813,052","799,636",
+75,"Boise, ID MSA","795,268","764,718","Boise City-Mountain Home-Ontario, ID-OR CSA"
+76,"Stockton, CA MSA","789,410","779,233","San Jose-San Francisco-Oakland, CA CSA"
+77,"Cape Coral-Fort Myers, FL MSA","787,976","760,822","Cape Coral-Fort Myers-Naples, FL CSA"
+78,"Greensboro-High Point, NC MSA","778,848","776,566","Greensboro?Winston-Salem?High Point, NC CSA"
+79,"Colorado Springs, CO MSA","762,793","755,105",
+80,"Lakeland-Winter Haven, FL MSA","753,520","725,046","Orlando-Lakeland-Deltona, FL CSA"
+81,"Little Rock-North Little Rock-Conway, AR MSA","750,936","748,031","Little Rock-North Little Rock, AR CSA"
+82,"Des Moines-West Des Moines, IA MSA","719,146","709,466","Des Moines-Ames-West Des Moines, IA CSA"
+83,"Ogden-Clearfield, UT MSA","706,696","694,863","Salt Lake City-Provo-Ogden, UT CSA"
+84,"Poughkeepsie-Newburgh-Middletown, NY MSA","701,637","697,221","New York-Newark, NY-NJ-CT-PA CSA"
+85,"Akron, OH MSA","700,015","702,219","Cleveland-Akron-Canton, OH CSA"
+86,"Provo-Orem, UT MSA","697,141","671,185","Salt Lake City-Provo-Ogden, UT CSA"
+87,"Springfield, MA MSA","695,305","699,162",
+88,"Deltona-Daytona Beach-Ormond Beach, FL MSA","685,344","668,921","Orlando-Lakeland-Deltona, FL CSA"
+89,"Madison, WI MSA","683,183","680,796","Madison-Janesville-Beloit, WI CSA"
+90,"Winston-Salem, NC MSA","681,438","675,966","Greensboro?Winston-Salem?High Point, NC CSA"
+91,"Syracuse, NY MSA","658,281","662,057","Syracuse-Auburn, NY CSA"
+92,"Durham-Chapel Hill, NC MSA","654,012","649,903","Raleigh-Durham-Cary, NC CSA"
+93,"Wichita, KS MSA","647,919","647,610","Wichita-Winfield, KS CSA"
+94,"Toledo, OH MSA","644,217","646,604","Toledo-Findlay-Tiffin, OH CSA"
+95,"Palm Bay-Melbourne-Titusville, FL MSA","616,628","606,612",
+96,"Augusta-Richmond County, GA-SC MSA","615,933","611,000",
+97,"Harrisburg-Carlisle, PA MSA","596,305","591,712","Harrisburg-York-Lebanon, PA CSA"
+98,"Spokane-Spokane Valley, WA MSA","593,466","585,784","Spokane-Spokane Valley-Coeur d'Alene, WA-ID CSA"
+99,"Jackson, MS MSA","587,202","591,978","Jackson-Vicksburg-Brookhaven, MS CSA"
+100,"Scranton?Wilkes-Barre, PA MSA","567,750","567,559",
+101,"Chattanooga, TN-GA MSA","567,641","562,647","Chattanooga-Cleveland-Dalton, TN-GA CSA"
+102,"Fayetteville-Springdale-Rogers, AR MSA","560,709","546,725",
+103,"Portland-South Portland, ME MSA","556,893","551,740","Portland-Lewiston-South Portland, ME CSA"
+104,"Lancaster, PA MSA","553,652","552,984",
+105,"Modesto, CA MSA","552,999","552,878","San Jose-San Francisco-Oakland, CA CSA"
+106,"Lansing-East Lansing, MI MSA","540,281","541,297",
+107,"Youngstown-Warren-Boardman, OH-PA MSA","538,069","541,243","Youngstown-Warren, OH-PA CSA"
+108,"Fayetteville, NC MSA","524,588","520,378","Fayetteville-Lumberton-Laurinburg, NC CSA"
+109,"Lexington-Fayette, KY MSA","517,846","516,811","Lexington-Fayette?Richmond?Frankfort, KY CSA"
+110,"Pensacola-Ferry Pass-Brent, FL MSA","516,388","509,905","Pensacola-Ferry Pass, FL-AL CSA"
+111,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA","509,794","487,722","Myrtle Beach-Conway, SC-NC CSA"
+112,"Port St. Lucie, FL MSA","503,521","487,657","Miami-Port St. Lucie-Fort Lauderdale, FL CSA"
+113,"Huntsville, AL MSA","502,728","491,723","Huntsville-Decatur, AL CSA"
+114,"Reno, NV MSA","497,535","490,596","Reno-Carson City-Fernley, NV CSA"
+115,"Killeen-Temple, TX MSA","486,101","475,367",
+116,"Santa Rosa-Petaluma, CA MSA","485,887","488,863","San Jose-San Francisco-Oakland, CA CSA"
+117,"Springfield, MO MSA","481,483","475,432",
+118,"Lafayette, LA MSA","479,212","478,384","Lafayette-Opelousas-Morgan City, LA CSA"
+119,"Visalia, CA MSA","477,054","473,117",
+120,"Asheville, NC MSA","472,341","469,015","Asheville-Marion-Brevard, NC CSA"
+121,"York-Hanover, PA MSA","458,696","456,438","Harrisburg-York-Lebanon, PA CSA"
+122,"Vallejo, CA MSA","451,716","453,491","San Jose-San Francisco-Oakland, CA CSA"
+123,"Santa Maria-Santa Barbara, CA MSA","446,475","448,229",
+124,"Salinas, CA MSA","437,325","439,035",
+125,"Salem, OR MSA","436,283","433,353","Portland-Vancouver-Salem, OR-WA CSA"
+126,"Reading, PA MSA","429,342","428,849","Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA"
+127,"Salisbury, MD-DE MSA","429,223","418,046","Salisbury-Cambridge, MD-DE CSA"
+128,"Mobile, AL MSA","428,220","430,197","Mobile-Daphne-Fairhope, AL CSA"
+129,"Manchester-Nashua, NH MSA","424,079","422,937","Boston-Worcester-Providence, MA-RI-NH-CT CSA"
+130,"Fort Wayne, IN MSA","423,038","419,601","Fort Wayne-Huntington-Auburn, IN CSA"
+131,"Brownsville-Harlingen, TX MSA","423,029","421,017","Brownsville-Harlingen-Raymondville, TX CSA"
+132,"Corpus Christi, TX MSA","422,778","421,933","Corpus Christi-Kingsville-Alice, TX CSA"
+133,"Gulfport-Biloxi, MS MSA","418,082","416,259",
+134,"Savannah, GA MSA","410,008","404,798","Savannah-Hinesville-Statesboro, GA CSA"
+135,"Flint, MI MSA","404,208","406,211","Detroit-Warren-Ann Arbor, MI CSA"
+136,"Canton-Massillon, OH MSA","400,525","401,574","Cleveland-Akron-Canton, OH CSA"
+137,"Anchorage, AK MSA","398,807","398,328",
+138,"Peoria, IL MSA","398,224","402,391",
+139,"Beaumont-Port Arthur, TX MSA","395,419","397,565",
+140,"Shreveport-Bossier City, LA MSA","389,155","393,406","Shreveport-Bossier City-Minden, LA CSA"
+141,"Naples-Marco Island, FL MSA","385,980","375,752","Cape Coral-Fort Myers-Naples, FL CSA"
+142,"Ocala, FL MSA","385,915","375,908",
+143,"Trenton-Princeton, NJ MSA","385,898","387,340","New York-Newark, NY-NJ-CT-PA CSA"
+144,"Montgomery, AL MSA","385,798","386,047","Montgomery-Selma-Alexander City, AL CSA"
+145,"Tallahassee, FL MSA","385,776","384,298",
+146,"Eugene-Springfield, OR MSA","383,189","382,971",
+147,"Davenport-Moline-Rock Island, IA-IL MSA","381,568","384,324","Davenport-Moline, IA-IL CSA"
+148,"Ann Arbor, MI MSA","369,390","372,258","Detroit-Warren-Ann Arbor, MI CSA"
+149,"Hickory-Lenoir-Morganton, NC MSA","366,441","365,276",
+150,"Fort Collins, CO MSA","362,533","359,066",
+151,"Huntington-Ashland, WV-KY-OH MSA","356,581","359,862","Charleston-Huntington-Ashland, WV-OH-KY CSA"
+152,"Lincoln, NE MSA","342,117","340,217","Lincoln-Beatrice, NE CSA"
+153,"Gainesville, FL MSA","341,756","339,247","Gainesville-Lake City, FL CSA"
+154,"Greeley, CO MSA","340,036","328,981","Denver-Aurora, CO CSA"
+155,"Rockford, IL MSA","336,278","338,798","Rockford-Freeport-Rochelle, IL CSA"
+156,"Spartanburg, SC MSA","335,864","327,997","Greenville-Spartanburg-Anderson, SC CSA"
+157,"Boulder, CO MSA","329,543","330,758","Denver-Aurora, CO CSA"
+158,"Green Bay, WI MSA","329,490","328,268","Green Bay-Shawano, WI CSA"
+159,"Clarksville, TN-KY MSA","328,304","320,535",
+160,"Columbus, GA-AL MSA","327,536","328,883","Columbus-Auburn-Opelika, GA-AL CSA"
+161,"Lubbock, TX MSA","325,245","321,368","Lubbock-Plainview-Levelland, TX CSA"
+162,"South Bend-Mishawaka, IN-MI MSA","323,695","324,501","South Bend-Elkhart-Mishawaka, IN-MI CSA"
+163,"Roanoke, VA MSA","314,496","315,251",
+164,"Evansville, IN-KY MSA","313,946","314,049",
+165,"Kingsport-Bristol, TN-VA MSA","308,661","307,614","Johnson City-Kingsport-Bristol, TN-VA CSA"
+166,"Kennewick-Richland, WA MSA","308,293","303,622","Kennewick-Richland-Walla Walla, WA CSA"
+167,"Hagerstown-Martinsburg, MD-WV MSA","298,227","293,844","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA"
+168,"Olympia-Lacey-Tumwater, WA MSA","297,977","294,793","Seattle-Tacoma, WA CSA"
+169,"Crestview-Fort Walton Beach-Destin, FL MSA","293,324","286,973",
+170,"Wilmington, NC MSA","291,833","285,905",
+171,"Duluth, MN-WI MSA","290,780","291,638",
+172,"Utica-Rome, NY MSA","290,211","292,264",
+173,"Longview, TX MSA","287,868","286,184",
+174,"Merced, CA MSA","286,461","281,202","San Jose-San Francisco-Oakland, CA CSA"
+175,"San Luis Obispo-Paso Robles, CA MSA","283,159","282,424",
+176,"Sioux Falls, SD MSA","281,958","276,730",
+177,"Waco, TX MSA","280,428","277,547",
+178,"Cedar Rapids, IA MSA","275,435","276,520","Cedar Rapids-Iowa City, IA CSA"
+179,"Atlantic City-Hammonton, NJ MSA","274,966","274,534","Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA"
+180,"Bremerton-Silverdale-Port Orchard, WA MSA","274,314","275,611","Seattle-Tacoma, WA CSA"
+181,"College Station-Bryan, TX MSA","272,041","268,248",
+182,"Amarillo, TX MSA","269,703","268,691","Amarillo-Pampa-Borger, TX CSA"
+183,"Erie, PA MSA","269,011","270,876","Erie-Meadville, PA CSA"
+184,"Norwich-New London, CT MSA","268,805","268,555","Hartford-East Hartford, CT CSA"
+185,"Tuscaloosa, AL MSA","268,191","268,674",
+186,"Laredo, TX MSA","267,945","267,114",
+187,"Santa Cruz-Watsonville, CA MSA","267,792","270,861","San Jose-San Francisco-Oakland, CA CSA"
+188,"Lynchburg, VA MSA","262,258","261,593",
+189,"Kalamazoo-Portage, MI MSA","261,108","261,670","Kalamazoo-Battle Creek-Portage, MI CSA"
+190,"Yakima, WA MSA","256,035","256,728",
+191,"Charleston, WV MSA","255,020","258,859","Charleston-Huntington-Ashland, WV-OH-KY CSA"
+192,"Fargo, ND-MN MSA","252,136","249,843","Fargo-Wahpeton, ND-MN CSA"
+193,"Fort Smith, AR-OK MSA","245,459","244,310",
+194,"Binghamton, NY MSA","245,220","247,138",
+195,"Appleton, WI MSA","244,084","243,147","Appleton-Oshkosh-Neenah, WI CSA"
+196,"Prescott Valley-Prescott, AZ MSA","242,253","236,209",
+197,"Daphne-Fairhope-Foley, AL MSA","239,294","231,767","Mobile-Daphne-Fairhope, AL CSA"
+198,"Tyler, TX MSA","237,186","233,479","Tyler-Jacksonville, TX CSA"
+199,"Macon-Bibb County, GA MSA","233,883","233,802","Macon-Bibb County?Warner Robins, GA CSA"
+200,"Topeka, KS MSA","232,670","233,152",
+201,"Barnstable Town, MA MSA","232,411","228,996","Boston-Worcester-Providence, MA-RI-NH-CT CSA"
+202,"Bellingham, WA MSA","228,831","226,847",
+203,"Rochester, MN MSA","227,151","226,329","Rochester-Austin, MN CSA"
+204,"Burlington-South Burlington, VT MSA","226,611","225,562","Burlington-South Burlington-Barre, VT CSA"
+205,"Lafayette-West Lafayette, IN MSA","224,709","223,716","Lafayette-West Lafayette-Frankfort, IN CSA"
+206,"Medford, OR MSA","223,734","223,259","Medford-Grants Pass, OR CSA"
+207,"Champaign-Urbana, IL MSA","222,696","222,538",
+208,"Charlottesville, VA MSA","222,688","221,524",
+209,"Hilton Head Island-Bluffton-Beaufort, SC MSA","222,072","215,908",
+210,"Las Cruces, NM MSA","221,508","219,561","El Paso-Las Cruces, TX-NM CSA"
+211,"Athens-Clarke County, GA MSA","217,759","215,415","Atlanta?Athens-Clarke County?Sandy Springs, GA-AL CSA"
+212,"Lake Havasu City-Kingman, AZ MSA","217,692","213,267",
+213,"Columbia, MO MSA","213,123","210,864","Columbia-Moberly-Mexico, MO CSA"
+214,"Lake Charles, LA MSA","210,362","222,402","Lake Charles-Jennings, LA CSA"
+215,"Chico, CA MSA","208,309","211,632",
+216,"Johnson City, TN MSA","208,068","207,285","Johnson City-Kingsport-Bristol, TN-VA CSA"
+217,"Gainesville, GA MSA","207,369","203,136","Atlanta?Athens-Clarke County?Sandy Springs, GA-AL CSA"
+218,"Yuma, AZ MSA","206,990","203,881",
+219,"Elkhart-Goshen, IN MSA","206,921","207,047","South Bend-Elkhart-Mishawaka, IN-MI CSA"
+220,"Springfield, IL MSA","206,898","208,640","Springfield-Jacksonville-Lincoln, IL CSA"
+221,"Houma-Thibodaux, LA MSA","206,212","207,137",
+222,"Jacksonville, NC MSA","206,160","204,576",
+223,"Monroe, LA MSA","204,884","207,104","Monroe-Ruston, LA CSA"
+224,"Bend, OR MSA","204,801","198,253","Bend-Prineville, OR CSA"
+225,"St. Cloud, MN MSA","200,406","199,671","Minneapolis-St. Paul, MN-WI CSA"
+226,"Florence, SC MSA","199,259","199,964",
+227,"Racine, WI MSA","196,896","197,727","Milwaukee-Racine-Waukesha, WI CSA"
+228,"Warner Robins, GA MSA","195,246","191,614","Macon-Bibb County?Warner Robins, GA CSA"
+229,"Punta Gorda, FL MSA","194,843","186,847","North Port-Sarasota, FL CSA"
+230,"St. George, UT MSA","191,226","180,279",
+231,"Saginaw, MI MSA","189,591","190,124","Saginaw-Midland-Bay City, MI CSA"
+232,"Billings, MT MSA","187,037","184,167",
+233,"Terre Haute, IN MSA","184,910","185,031",
+234,"Dover, DE MSA","184,149","181,851","Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA"
+235,"Kingston, NY MSA","182,951","181,851","New York-Newark, NY-NJ-CT-PA CSA"
+236,"Bowling Green, KY MSA","182,594","179,639","Bowling Green-Glasgow, KY CSA"
+237,"Joplin, MO MSA","182,541","181,409","Joplin-Miami, MO-OK CSA"
+238,"Yuba City, CA MSA","182,484","181,208","Sacramento-Roseville, CA CSA"
+239,"Redding, CA MSA","182,139","182,155","Redding-Red Bluff, CA CSA"
+240,"Jackson, TN MSA","180,799","180,504","Jackson-Brownsville, TN Combined Statistical Area"
+241,"El Centro, CA MSA","179,851","179,702",
+242,"Coeur d'Alene, ID MSA","179,789","171,362","Spokane-Spokane Valley-Coeur d'Alene, WA-ID CSA"
+243,"Panama City, FL MSA","179,168","175,216",
+244,"Abilene, TX MSA","177,314","176,579",
+245,"Iowa City, IA MSA","177,239","175,419","Cedar Rapids-Iowa City, IA CSA"
+246,"Auburn-Opelika, AL MSA","177,218","174,241","Columbus-Auburn-Opelika, GA-AL CSA"
+247,"Muskegon, MI MSA","176,511","175,824","Grand Rapids-Kentwood-Muskegon, MI CSA"
+248,"Burlington, NC MSA","173,877","171,415","Greensboro?Winston-Salem?High Point, NC CSA"
+249,"Eau Claire, WI MSA","173,317","172,007","Eau Claire-Menomonie, WI CSA"
+250,"Midland, TX MSA","173,180","175,220","Midland-Odessa, TX CSA"
+251,"Hattiesburg, MS MSA","173,078","172,231","Hattiesburg-Laurel, MS CSA"
+252,"Greenville, NC MSA","172,169","170,243","Greenville-Kinston-Washington, NC CSA"
+253,"Oshkosh-Neenah, WI MSA","171,623","171,730","Appleton-Oshkosh-Neenah, WI CSA"
+254,"Bloomington, IL MSA","170,889","170,954","Bloomington-Pontiac, IL CSA"
+255,"Pueblo, CO MSA","169,622","168,162","Pueblo-Ca�on City, CO CSA"
+256,"East Stroudsburg, PA MSA","169,273","168,327","New York-Newark, NY-NJ-CT-PA CSA"
+257,"Waterloo-Cedar Falls, IA MSA","167,796","168,461",
+258,"Wausau-Weston, WI MSA","166,189","166,428","Wausau-Stevens Point-Wisconsin Rapids, WI CSA"
+259,"Blacksburg-Christiansburg, VA MSA","165,293","166,378",
+260,"Janesville-Beloit, WI MSA","164,381","163,687","Madison-Janesville-Beloit, WI CSA"
+261,"Kahului-Wailuku-Lahaina, HI MSA","164,221","164,754",
+262,"Sebastian-Vero Beach, FL MSA","163,662","159,788","Miami-Port St. Lucie-Fort Lauderdale, FL CSA"
+263,"Idaho Falls, ID MSA","162,786","157,429","Idaho Falls-Rexburg-Blackfoot, ID CSA"
+264,"Bloomington, IN MSA","161,321","161,039","Bloomington-Bedford, IN CSA"
+265,"Odessa, TX MSA","161,091","165,171","Midland-Odessa, TX CSA"
+266,"Jackson, MI MSA","160,050","160,366",
+267,"Madera, CA MSA","159,410","156,255","Fresno-Madera-Hanford, CA CSA"
+268,"Homosassa Springs, FL MSA","158,083","153,843",
+269,"State College, PA MSA","157,527","158,172","State College-DuBois, PA CSA"
+270,"Grand Junction, CO MSA","157,335","155,703",
+271,"Elizabethtown-Fort Knox, KY MSA","156,766","155,572","Louisville/Jefferson County?Elizabethtown?Bardstown, KY-IN CSA"
+272,"Decatur, AL MSA","156,758","156,494","Huntsville-Decatur, AL CSA"
+273,"Chambersburg-Waynesboro, PA MSA","156,289","155,932","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA"
+274,"Monroe, MI MSA","155,274","154,809","Detroit-Warren-Ann Arbor, MI CSA"
+275,"Santa Fe, NM MSA","155,201","154,823","Albuquerque-Santa Fe-Las Vegas, NM CSA"
+276,"Vineland-Bridgeton, NJ MSA","153,627","154,152","Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA"
+277,"Hanford-Corcoran, CA MSA","153,443","152,486","Fresno-Madera-Hanford, CA CSA"
+278,"Niles, MI MSA","153,101","154,316","South Bend-Elkhart-Mishawaka, IN-MI CSA"
+279,"Bangor, ME MSA","152,765","152,199",
+280,"Logan, UT-ID MSA","152,083","147,348",
+281,"Dothan, AL MSA","151,618","151,007","Dothan-Ozark, AL CSA"
+282,"Florence-Muscle Shoals, AL MSA","151,517","150,791",
+283,"Alexandria, LA MSA","150,890","152,192",
+284,"Jefferson City, MO MSA","150,706","150,309",
+285,"Sioux City, IA-NE-SD MSA","149,265","149,940",
+286,"Valdosta, GA MSA","149,152","148,126",
+287,"Wichita Falls, TX MSA","149,013","148,128",
+288,"Albany, GA MSA","147,773","148,922",
+289,"Texarkana, TX-AR MSA","147,174","147,519",
+290,"Winchester, VA-WV MSA","145,155","142,632","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA"
+291,"Flagstaff, AZ MSA","145,052","145,101",
+292,"Morristown, TN MSA","143,855","142,709","Knoxville-Morristown-Sevierville, TN CSA"
+293,"Rocky Mount, NC MSA","143,535","143,870","Rocky Mount-Wilson-Roanoke Rapids, NC CSA"
+294,"Lebanon, PA MSA","143,493","143,257","Harrisburg-York-Lebanon, PA CSA"
+295,"Dalton, GA MSA","142,799","142,837","Chattanooga-Cleveland-Dalton, TN-GA CSA"
+296,"Rapid City, SD MSA","141,979","139,074","Rapid City-Spearfish, SD CSA"
+297,"Morgantown, WV MSA","140,745","140,038","Morgantown-Fairmont, WV CSA"
+298,"Sherman-Denison, TX MSA","139,336","135,543","Dallas-Fort Worth, TX-OK CSA"
+299,"La Crosse-Onalaska, WI-MN MSA","139,211","139,627",
+300,"Wheeling, WV-OH MSA","137,740","139,513",
+301,"Napa, CA MSA","136,207","138,019","San Jose-San Francisco-Oakland, CA CSA"
+302,"Harrisonburg, VA MSA","135,824","135,571","Harrisonburg-Staunton-Waynesboro, VA CSA"
+303,"Sumter, SC MSA","135,782","136,700",
+304,"The Villages, FL MSA","135,638","129,752","Orlando-Lakeland-Deltona, FL CSA"
+305,"Springfield, OH MSA","135,633","136,001","Dayton-Springfield-Kettering, OH CSA"
+306,"Hammond, LA MSA","135,217","133,157","New Orleans-Metairie-Hammond, LA-MS CSA"
+307,"Jonesboro, AR MSA","134,878","134,196","Jonesboro-Paragould, AR CSA"
+308,"Bismarck, ND MSA","134,417","133,626",
+309,"Manhattan, KS MSA","133,932","134,046",
+310,"Battle Creek, MI MSA","133,819","134,310","Kalamazoo-Battle Creek-Portage, MI CSA"
+311,"Carbondale-Marion, IL MSA","132,907","133,435",
+312,"Johnstown, PA MSA","132,167","133,472","Johnstown-Somerset, PA CSA"
+313,"Mount Vernon-Anacortes, WA MSA","130,696","129,523","Seattle-Tacoma, WA CSA"
+314,"Albany-Lebanon, OR MSA","129,839","128,610","Portland-Vancouver-Salem, OR-WA CSA"
+315,"Pittsfield, MA MSA","128,657","129,026",
+316,"Cleveland, TN MSA","127,938","126,164","Chattanooga-Cleveland-Dalton, TN-GA CSA"
+317,"Lawton, OK MSA","127,543","126,652",
+318,"Glens Falls, NY MSA","126,574","127,039","Albany-Schenectady, NY CSA"
+319,"Ames, IA MSA","126,195","125,252","Des Moines-Ames-West Des Moines, IA CSA"
+320,"Sierra Vista-Douglas, AZ MSA","126,050","125,447",
+321,"Staunton, VA MSA","125,774","125,433","Harrisonburg-Staunton-Waynesboro, VA CSA"
+322,"Mansfield, OH MSA","125,195","124,936","Mansfield-Ashland-Bucyrus, OH CSA"
+323,"Wenatchee, WA MSA","123,342","122,012",
+324,"San Angelo, TX MSA","122,344","122,888",
+325,"New Bern, NC MSA","122,273","122,168","New Bern-Morehead City, NC CSA"
+326,"Altoona, PA MSA","121,767","122,822",
+327,"Owensboro, KY MSA","121,227","121,559",
+328,"Farmington, NM MSA","120,993","121,661",
+329,"St. Joseph, MO-KS MSA","120,424","121,467","Kansas City-Overland Park-Kansas City, MO-KS CSA"
+330,"Missoula, MT MSA","119,533","117,922",
+331,"Lawrence, KS MSA","119,363","118,785","Kansas City-Overland Park-Kansas City, MO-KS CSA"
+332,"Sheboygan, WI MSA","117,747","118,034",
+333,"Twin Falls, ID MSA","116,905","114,283",
+334,"Goldsboro, NC MSA","116,835","117,333",
+335,"Watertown-Fort Drum, NY MSA","116,295","116,721",
+336,"Anniston-Oxford, AL MSA","115,972","116,441",
+337,"Weirton-Steubenville, WV-OH MSA","115,585","116,903","Pittsburgh-New Castle-Weirton, PA-OH-WV CSA"
+338,"California-Lexington Park, MD MSA","114,468","113,777","Washington-Baltimore-Arlington, DC-MD-VA-WV-PA CSA"
+339,"Brunswick, GA MSA","113,963","113,495",
+340,"Beckley, WV MSA","113,698","115,079",
+341,"Williamsport, PA MSA","113,605","114,188","Williamsport-Lock Haven, PA CSA"
+342,"Michigan City-La Porte, IN MSA","112,390","112,417","Chicago-Naperville, IL-IN-WI CSA"
+343,"Muncie, IN MSA","111,871","111,903","Indianapolis-Carmel-Muncie, IN CSA"
+344,"Longview, WA MSA","111,524","110,730","Portland-Vancouver-Salem, OR-WA CSA"
+345,"Lewiston-Auburn, ME MSA","111,034","111,139","Portland-Lewiston-South Portland, ME CSA"
+346,"Kankakee, IL MSA","106,601","107,502","Chicago-Naperville, IL-IN-WI CSA"
+347,"Ithaca, NY MSA","105,162","105,740","Ithaca-Cortland, NY CSA"
+348,"Fond du Lac, WI MSA","104,362","104,154",
+349,"Gettysburg, PA MSA","104,127","103,852","Harrisburg-York-Lebanon, PA CSA"
+350,"Mankato, MN MSA","103,612","103,566","Mankato-New Ulm, MN CSA"
+351,"Grand Forks, ND-MN MSA","103,462","104,362",
+352,"Sebring-Avon Park, FL MSA","103,296","101,235",
+353,"Gadsden, AL MSA","103,162","103,436",
+354,"Bay City, MI MSA","102,985","103,856","Saginaw-Midland-Bay City, MI CSA"
+355,"Decatur, IL MSA","102,432","103,998",
+356,"Lima, OH MSA","101,670","102,206","Lima-Van Wert-Celina, OH CSA"
+357,"Cheyenne, WY MSA","100,863","100,512",
+358,"Hot Springs, AR MSA","100,330","100,180","Hot Springs-Malvern, AR CSA"
+359,"Rome, GA MSA","98,771","98,584","Atlanta?Athens-Clarke County?Sandy Springs, GA-AL CSA"
+360,"Dubuque, IA MSA","98,718","99,266",
+361,"Victoria, TX MSA","98,127","98,331","Victoria-Port Lavaca, TX CSA"
+362,"Cape Girardeau, MO-IL MSA","97,699","97,517","Cape Girardeau-Sikeston, MO-IL CSA"
+363,"Pocatello, ID MSA","96,213","94,896",
+364,"Corvallis, OR MSA","96,017","95,184","Portland-Vancouver-Salem, OR-WA CSA"
+365,"Ocean City, NJ MSA","95,661","95,263","Philadelphia-Reading-Camden, PA-NJ-DE-MD CSA"
+366,"Fairbanks, AK MSA","95,593","95,655",
+367,"Cumberland, MD-WV MSA","94,586","95,044",
+368,"Parkersburg-Vienna, WV MSA","88,687","89,490","Parkersburg-Marietta-Vienna, WV-OH CSA"
+369,"Grants Pass, OR MSA","88,346","88,090","Medford-Grants Pass, OR CSA"
+370,"Pine Bluff, AR MSA","86,412","87,751","Little Rock-North Little Rock, AR CSA"
+371,"Great Falls, MT MSA","84,511","84,414",
+372,"Kokomo, IN MSA","83,687","83,658","Kokomo-Peru, IN CSA"
+373,"Midland, MI MSA","83,457","83,494","Saginaw-Midland-Bay City, MI CSA"
+374,"Elmira, NY MSA","83,045","84,148","Elmira-Corning, NY CSA"
+375,"Bloomsburg-Berwick, PA MSA","82,959","82,863","Bloomsburg-Berwick-Sunbury, PA CSA"
+376,"Hinesville, GA MSA","82,863","81,424","Savannah-Hinesville-Statesboro, GA CSA"
+377,"Columbus, IN MSA","82,475","82,208","Indianapolis-Carmel-Muncie, IN CSA"
+378,"Casper, WY MSA","79,555","79,955",
+379,"Grand Island, NE MSA","76,175","77,038",
+380,"Danville, IL MSA","73,095","74,188",
+381,"Lewiston, ID-WA MSA","64,851","64,375",
+382,"Walla Walla, WA MSA","62,682","62,584","Kennewick-Richland-Walla Walla, WA CSA"
+383,"Enid, OK MSA","61,926","62,846",
+384,"Carson City, NV MSA","58,993","58,639","Reno-Carson City-Fernley, NV CSA"
