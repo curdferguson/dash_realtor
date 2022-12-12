@@ -30,8 +30,6 @@ jupyter_client==7.4.7
 jupyter_core==5.1.0
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.6
-mkl-random==1.2.2
-mkl-service==2.4.0
 more-itertools==8.14.0
 nbformat==5.5.0
 nest-asyncio==1.5.6
