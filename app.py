@@ -5,7 +5,7 @@ from urllib.request import urlopen
 import json
 
 core = pd.read_csv('https://raw.githubusercontent.com/curdferguson/dash_realtor/main/data/rdc_core.csv')
-state_files = pd.read_csv('data/state_files.csv').set_index('State')
+state_files = pd.read_csv('https://raw.githubusercontent.com/curdferguson/dash_realtor/main/data/state_files.csv').set_index('State')
 
 core['zip_code'] = [str(i) for i in core['zip_code']]
 core.loc[core['zip_code'].str.len() == 3, 'zip_code'] = ['00' + i for i in core.loc[core['zip_code'].str.len() == 3, 'zip_code']]
