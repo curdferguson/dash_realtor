@@ -20,7 +20,7 @@ opts_value=['median_listing_price', 'median_listing_price_per_square_foot', 'act
 opts_dict = {opts_value[i]: opts_label[i] for i in range(len(opts_label))}
 
 
-dash_app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
+dash_app = Dash(__name__, external_stylesheets=[dbc.themes.COSMO])
 app = dash_app.server
 
 
