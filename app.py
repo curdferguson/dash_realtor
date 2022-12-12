@@ -1,4 +1,5 @@
 from dash import Dash, dcc, html, Input, Output, ctx
+import dash_bootstrap_components as dbc
 import plotly.graph_objects as go
 import pandas as pd
 from urllib.request import urlopen
@@ -19,9 +20,11 @@ opts_value=['median_listing_price', 'median_listing_price_per_square_foot', 'act
 opts_dict = {opts_value[i]: opts_label[i] for i in range(len(opts_label))}
 
 
-app = Dash(__name__)
+dash_app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
+app = dash_app.server
 
-app.layout = html.Div([
+
+dash_app.layout = html.Div([
     html.Div([
         html.Div([
                 dcc.Dropdown(
@@ -96,7 +99,7 @@ app.layout = html.Div([
 #def set_zipcode_value(option):
 #    return option
 
-@app.callback(
+@dash_app.callback(
     Output('msa_graphic', 'figure'),
     [Input('msa_dropdown', 'value'),
     Input('metric_dropdown', 'value')],
@@ -151,7 +154,7 @@ def msa_fig(selected_msa, selected_metric):
     )
     return fig
 
-@app.callback(
+@dash_app.callback(
     Output('zip_graphic', 'figure'),
     [Input('msa_dropdown', 'value'),
     Input('metric_dropdown', 'value')],
@@ -217,4 +220,4 @@ def zip_fig(selected_msa, selected_metric):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    dash_app.run_server(debug=True)
